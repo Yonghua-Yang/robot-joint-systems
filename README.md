@@ -18,7 +18,7 @@ The main focus areas include:
 - System architecture
 - Requirement decomposition
 - Motion control
-- Communication interface
+- Communication interfaces
 - Diagnostics and protection
 - Verification and validation
 - Engineering analysis tools
@@ -37,17 +37,15 @@ Topics:
 - Interface design
 - Requirement analysis
 
-
 ### 2. Motion Control
 
 Topics:
 
-- Position / Velocity / Torque control
+- Position, velocity and torque control
 - PVT control
 - Impedance control
 - Feedback architecture
 - Filtering and delay
-
 
 ### 3. Communication and Diagnostics
 
@@ -57,33 +55,30 @@ Topics:
 - CAN FD communication
 - Timing and synchronization
 - Fault handling
-- Safe state design
-
+- Safe-state design
 
 ### 4. Verification and Validation
 
 Topics:
 
-- Step response analysis
+- Step-response analysis
 - Tracking performance
 - Noise evaluation
 - Repeatability
 - Performance testing
 
-
 ---
 
 ## Repository Structure
 
-01_overview
-02_system-architecture
-03_control
-04_verification-validation
-05_engineering-cases
-06_tools-and-simulations
-07_decision-records
-08_work-log
-
+- `01_overview`
+- `02_system-architecture`
+- `03_control`
+- `04_verification-validation`
+- `05_engineering-cases`
+- `06_tools-and-simulations`
+- `07_decision-records`
+- `08_work-log`
 
 ---
 
